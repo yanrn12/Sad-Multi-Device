@@ -8,10 +8,10 @@ global.owner = [
   ['+62 895-1694-7204'],
   ['+62 882-1398-8636'],
   ['+62 818-0545-0249'],
-  ['6289516947204', 'Papah-Chan', true],
+  ['6289516947204', 'Iyan', true],
   ['+62 857-7019-9435', 'Bot', true],
-  ['+62 895-1694-7204', 'Johannes', true],
-  ['+62 882-1398-8636', 'Krisna', true],
+  ['+62 895-1694-7204', 'iyan', true],
+  ['+62 882-1398-8636', 'nama lu 🤣', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
